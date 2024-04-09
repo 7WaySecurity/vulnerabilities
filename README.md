@@ -3,12 +3,24 @@
 CVE-ID
 CVE-2024-27574
 
-DESCRIPCION
-Se identifico una vulnerabilidad de inyección SQL en una falta de validación adecuada en la entrada de datos en uno de los campos del sistema de gestión de cursos. Esto le permite a un atacante inyectar y ejecutar consultas SQL, que comprometen la seguridad de más de 200 bases de datos y otorga el acceso no autorizado a información confidencial.
+DESCRIPTION:
 
-REFERENCIAS:
+A SQL injection vulnerability is identified in a lack of proper validation in data entry in one of the fields of the course management system. This allows an attacker to inject and execute SQL queries, compromising the security of over 200 databases and granting unauthorized access to sensitive information.
+
+REFERENCES:
 https://owasp.org/Top10/es/A03_2021-Injection/ 
-https://capec.mitre.org/data/definitions/66.html 
+
+https://capec.mitre.org/data/definitions/66.html
 
 
+
+
+Blind SQL injection is evident
 ![](https://github.com/7WaySecurity/vulnerabilities/blob/main/Screenshot.png)
+
+
+The databases are evident.
+![](https://github.com/7WaySecurity/vulnerabilities/blob/main/Screenshot1.png)
+
+The presence of confidential information is evident.
+![](https://github.com/7WaySecurity/vulnerabilities/blob/main/Screenshot2.png)
