@@ -22,5 +22,6 @@ Blind SQL injection is evident
 The databases are evident.
 ![](https://github.com/7WaySecurity/vulnerabilities/blob/main/Screenshot1.png)
 
-The presence of confidential information is evident.
+
+Access to a database containing the access information of users including the administrator is evident.
 ![](https://github.com/7WaySecurity/vulnerabilities/blob/main/Screenshot2.png)
