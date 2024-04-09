@@ -5,6 +5,9 @@ CVE-2024-27574
 
 DESCRIPTION:
 
+SQL injection vulnerability in Trainme Academy Ichin v.1.3.2
+
+
 A SQL injection vulnerability is identified in a lack of proper validation in data entry in one of the fields of the course management system. This allows an attacker to inject and execute SQL queries, compromising the security of over 200 databases and granting unauthorized access to sensitive information.
 
 REFERENCES:
