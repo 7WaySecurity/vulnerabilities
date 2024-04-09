@@ -3,6 +3,10 @@
 CVE-ID
 CVE-2024-27574
 
+CVSSCORE 7.5 - CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N
+
+
+
 DESCRIPTION:
 
 SQL injection vulnerability in Trainme Academy Ichin v.1.3.2
