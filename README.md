@@ -9,3 +9,6 @@ Se identifico una vulnerabilidad de inyección SQL en una falta de validación a
 REFERENCIAS:
 https://owasp.org/Top10/es/A03_2021-Injection/ 
 https://capec.mitre.org/data/definitions/66.html 
+
+
+[image]https://github.com/7WaySecurity/vulnerabilities/blob/main/Screenshot.png
